@@ -1,0 +1,15 @@
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\bin\Debug\SekerDB.mdf
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\bin\Debug\SekerDB_log.ldf
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\bin\Debug\SekerProje_v2.exe.config
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\bin\Debug\SekerProje_v2.exe
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\bin\Debug\SekerProje_v2.pdb
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.csproj.AssemblyReference.cache
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.Properties.Resources.resources
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.SignUpPage.resources
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.csproj.GenerateResource.cache
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.csproj.CoreCompileInputs.cache
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.exe
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.pdb
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.CardReadingPage.resources
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.LoginPage.resources
+C:\Users\waran\source\repos\SekerProje_v2\SekerProje_v2\obj\Debug\SekerProje_v2.SettingsPage.resources
